@@ -1,4 +1,4 @@
-# Project Name
+# Melanoma Detection CNN Assignment
 CNN Model Development for detecting Melanoma Skin Cancer among various skin diseases
 
 
